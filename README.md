@@ -9,15 +9,21 @@ This project demonstrates data transformation and integration using PySpark. I w
 - Load datasets into PySpark DataFrames
 - Display the schema of both dataframes
   ![Result Image](Results/printschema.PNG)
+  
 - Add a new column to each dataframe
 - Rename columns in both dataframes
 - Drop unnecessary columns
 - Join dataframes based on a common column
 - Filter data based on a condition
 - Aggregate data by customer
+  ![Result Image](Results/total_amount_per_customer.PNG)
+  
 - Write the result to a Hive table
 - Calculate the average transaction value per quarter
+  ![Result Image](Results/average_value_per_quarter.PNG)
+  
 - Calculate the total transaction value per year
+  ![Result Image](Results/total_value_per_year.PNG)
 - Write the result to HDFS
 
 **Dislaimer**: This project was completed as part of my final exam for the IBM course BD0225EN: Big Data, Hadoop, and Spark Basics. My certificate can be found [here](https://courses.edx.org/certificates/9d3b18f1586a4eff8e49a56102521231). This project is the property of IBM through EdX, and all rights are reserved.
