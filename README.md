@@ -8,7 +8,7 @@ This project demonstrates data transformation and integration using PySpark. I w
 - Creating a SparkContext object
 - Load datasets into PySpark DataFrames
 - Display the schema of both dataframes
-  ![Result Image](Results/printschema.png)
+  ![Result Image](Results/printschema.PNG)
 - Add a new column to each dataframe
 - Rename columns in both dataframes
 - Drop unnecessary columns
